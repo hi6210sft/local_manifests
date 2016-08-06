@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<manifest>
+<!-- hi6210sft projects -->
+  <project path="device/huawei/hi6210sft" name="hi6210sft/android_device_huawei_hi6210sft" remote="github" revision="cm-12.1"/>
+<project path="vendor/huawei/hi6210sft" name="hi6210sft/android_vendor_huawei_hi6210sft" remote="github" revision="cm-12.1"/>
+ 
+<!-- kernel -->
+ <project path="kernel/huawei/android_ALE-L21_kernel" name="hi6210sft/android_ALE-L21_kernel" remote="github" revision="master"/>
+
+</manifest>
